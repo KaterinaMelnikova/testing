@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test1.com" resolutions="1x" timestamp="1517948600649">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="ctr3.css" crc="4196952196" ref="ctr3"/>
+    <file name="ctr2.css" crc="99565910" ref="ctr2"/>
+    <file name="ctr4.css" crc="3907326812" ref="ctr4"/>
+    <file name="index.css" crc="187312716" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="museutils.js" crc="17924269" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="museconfig.js" crc="278381782" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:ctr2:ctr3:ctr4"/>
+    <file name="require.js" crc="3861931657" ref="index:ctr2:ctr3:ctr4"/>
+  </folder>
+  <folder name="images">
+    <file name="gorod-chiorno-beloe-foto-poezd.jpg" crc="521620077" ref="index:ctr2:ctr3:ctr4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="572ba2d9a4d7d1548274224b.png" crc="139459001" ref="index:ctr2:ctr3:ctr4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ctr3" alt=""/>
+      <caption webpage="ctr4" alt=""/>
+      <caption webpage="ctr2" alt=""/>
+    </file>
+    <file name="twitter-logo-icon-by-jon-bennallick.png" crc="3797290537" ref="index:ctr2:ctr3:ctr4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ctr3" alt=""/>
+      <caption webpage="ctr4" alt=""/>
+      <caption webpage="ctr2" alt=""/>
+    </file>
+    <file name="5772582fc98f515596a87ad2.png" crc="316626540" ref="index:ctr2:ctr3:ctr4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ctr3" alt=""/>
+      <caption webpage="ctr4" alt=""/>
+      <caption webpage="ctr2" alt=""/>
+    </file>
+    <file name="577c3c1aa8beb155bd4ac843.png" crc="73214420" ref="index:ctr2:ctr3:ctr4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ctr3" alt=""/>
+      <caption webpage="ctr4" alt=""/>
+      <caption webpage="ctr2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="99660791" seo="true" mt="1517948537068" redirect="true"/>
+  <file name="ctr2.html" crc="227203905" seo="true" mt="1517948402241" redirect="true"/>
+  <file name="ctr3.html" crc="4055138026" seo="true" mt="1517948402246" redirect="true"/>
+  <file name="ctr4.html" crc="3809799628" seo="true" mt="1517948507212" redirect="true"/>
+</manifest>
